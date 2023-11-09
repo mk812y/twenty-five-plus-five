@@ -20,6 +20,7 @@
 		A5E39B3B2AFD0EF000BA90B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5E39B3D2AFD0EF000BA90B6 /* twenty_five_plus_five.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = twenty_five_plus_five.entitlements; sourceTree = "<group>"; };
 		A5E39B3F2AFD0EF000BA90B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A5FB56A22AFD6FEF00784F12 /* twenty-five-plus-five-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "twenty-five-plus-five-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		A5E39B362AFD0EEF00BA90B6 /* twenty five plus five */ = {
 			isa = PBXGroup;
 			children = (
+				A5FB56A22AFD6FEF00784F12 /* twenty-five-plus-five-Info.plist */,
 				A5E39B372AFD0EEF00BA90B6 /* twenty_five_plus_fiveApp.swift */,
 				A5E39B392AFD0EEF00BA90B6 /* ContentView.swift */,
 				A5E39B3B2AFD0EF000BA90B6 /* Assets.xcassets */,
@@ -274,6 +276,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "twenty-five-plus-five-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -312,6 +315,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "twenty-five-plus-five-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
